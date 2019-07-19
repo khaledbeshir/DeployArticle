@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Button
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:id="@+id/category_item"
+    android:background="@drawable/buttons"
+    android:layout_marginTop="10dp"
+    android:layout_marginRight="19dp"
+    android:layout_marginLeft="19dp"
+    android:padding="4dp"
+    android:textSize="24sp"
+    android:textColor="@android:color/background_light"
+    android:textAllCaps="false"
+
+    >
+
+</Button>
+
+
